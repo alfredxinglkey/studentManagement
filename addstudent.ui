@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>addStudent</string>
+   <string>添加学生 </string>
   </property>
   <layout class="QVBoxLayout" name="verticalLayout">
    <item>
@@ -319,11 +319,11 @@
  <resources/>
  <connections/>
  <buttongroups>
-  <buttongroup name="genderGroup"/>
   <buttongroup name="interestGroup">
    <property name="exclusive">
     <bool>false</bool>
    </property>
   </buttongroup>
+  <buttongroup name="genderGroup"/>
  </buttongroups>
 </ui>

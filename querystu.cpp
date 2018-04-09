@@ -58,6 +58,7 @@ int queryStu::readFromLine()
     for(int i = 0; i < stu_lines.length(); i++){
         qDebug()<<stu_lines.at(i);
     }
+    return 0;
 }
 
 void queryStu::on_btn_search_clicked()
